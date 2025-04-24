@@ -9,6 +9,8 @@ applovin.com, f5265511ae6890539e7adec4539e0ba1, DIRECT
 google.com, pub-8122549754178070, DIRECT, f08c47fec0942fa0
 facebook.com, 1513178796088195, RESELLER, c3e20eee3f780d68
 
+facebook.com, 158062881538703, DIRECT, c3e20eee3f780d68
+
 facebook.com, 1672941479948950, DIRECT, c3e20eee3f780d68
 
 === Mintegral ===
